@@ -15,9 +15,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_vince.mk
+    $(LOCAL_DIR)/cipher_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_vince-user \
-    aosp_vince-userdebug \
-    aosp_vince-eng
+    cipher_vince-user \
+    cipher_vince-userdebug \
+    cipher_vince-eng
