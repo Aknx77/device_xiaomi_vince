@@ -34,6 +34,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 # Cipher flags
 TARGET_FACE_UNLOCK_SUPPORTED := true
 CIPHER_OFFICIAL := false
+CIPHER_MAINTAINER := Aditya N
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := vince
