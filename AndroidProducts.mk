@@ -15,9 +15,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cipher_vince.mk
+    $(LOCAL_DIR)/blaze_vince.mk
 
 COMMON_LUNCH_CHOICES := \
-    cipher_vince-user \
-    cipher_vince-userdebug \
-    cipher_vince-eng
+    blaze_vince-user \
+    blaze_vince-userdebug \
+    blaze_vince-eng
