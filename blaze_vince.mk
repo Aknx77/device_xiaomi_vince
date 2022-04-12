@@ -37,6 +37,7 @@ TARGET_BOOT_ANIMATION_RES := 1080
 BLAZE_BUILD_TYPE := OFFICIAL
 BLAZE_MAINTAINER := ItsAdityan
 TARGET_FACE_UNLOCK_SUPPORTED := true
+TARGET_USE_PIXEL_CHARGER := true
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := vince
